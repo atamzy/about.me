@@ -1,0 +1,34 @@
+body{
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    background: #f8f9fa;
+}
+
+header{
+    color: #fff;
+    background: #0070f3;
+    padding: 2rem;
+    text-align: center;
+}
+
+main{
+    padding: 2rem;
+}
+
+section{
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #ffffff;
+    border-radius: 18px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0,1);
+}
+
+h2{
+    color: #0070f3;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+}
